@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="NhahangOnlineModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Danhmuc">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="img" Type="String" MaxLength="250" FixedLength="false" Unicode="true" />
+    <Property Name="meta" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="hide" Type="Boolean" />
+    <Property Name="tieude" Type="String" MaxLength="150" FixedLength="false" Unicode="true" />
+    <Property Name="name" Type="String" MaxLength="250" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Monan" Relationship="Self.FK_Monan_Danhmuc" FromRole="Danhmuc" ToRole="Monan" />
+    <NavigationProperty Name="Thucuong" Relationship="Self.FK_Thucuong_Danhmuc" FromRole="Danhmuc" ToRole="Thucuong" />
+  </EntityType>
+  <EntityType Name="Monan">
+    <Key>
+      <PropertyRef Name="mamonan" />
+    </Key>
+    <Property Name="mamonan" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ID" Type="Int32" />
+    <Property Name="order" Type="Int32" />
+    <Property Name="tieude" Type="String" MaxLength="250" FixedLength="false" Unicode="true" />
+    <Property Name="meta" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="img" Type="String" MaxLength="150" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Danhmuc" Relationship="Self.FK_Monan_Danhmuc" FromRole="Monan" ToRole="Danhmuc" />
+  </EntityType>
+  <EntityType Name="Nhanvien">
+    <Key>
+      <PropertyRef Name="manhanvien" />
+    </Key>
+    <Property Name="manhanvien" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="maquanly" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="ten" Type="String" MaxLength="150" FixedLength="false" Unicode="true" />
+    <Property Name="chucvu" Type="String" MaxLength="250" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Quanly" Relationship="Self.FK_Nhanvien_Quanly" FromRole="Nhanvien" ToRole="Quanly" />
+  </EntityType>
+  <EntityType Name="Quanly">
+    <Key>
+      <PropertyRef Name="maquanly" />
+    </Key>
+    <Property Name="maquanly" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="ten" Type="String" MaxLength="150" FixedLength="false" Unicode="true" />
+    <Property Name="khuquanly" Type="String" MaxLength="250" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Nhanvien" Relationship="Self.FK_Nhanvien_Quanly" FromRole="Quanly" ToRole="Nhanvien" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="Thucuong">
+    <Key>
+      <PropertyRef Name="madouong" />
+    </Key>
+    <Property Name="madouong" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="meta" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="img" Type="String" MaxLength="150" FixedLength="false" Unicode="true" />
+    <Property Name="price" Type="Double" />
+    <Property Name="tieude" Type="String" MaxLength="150" FixedLength="false" Unicode="true" />
+    <Property Name="order" Type="Int32" />
+    <Property Name="ID" Type="Int32" />
+    <NavigationProperty Name="Danhmuc" Relationship="Self.FK_Thucuong_Danhmuc" FromRole="Thucuong" ToRole="Danhmuc" />
+  </EntityType>
+  <Association Name="FK_Monan_Danhmuc">
+    <End Role="Danhmuc" Type="Self.Danhmuc" Multiplicity="0..1" />
+    <End Role="Monan" Type="Self.Monan" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Danhmuc">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Monan">
+        <PropertyRef Name="ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Thucuong_Danhmuc">
+    <End Role="Danhmuc" Type="Self.Danhmuc" Multiplicity="0..1" />
+    <End Role="Thucuong" Type="Self.Thucuong" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Danhmuc">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Thucuong">
+        <PropertyRef Name="ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Nhanvien_Quanly">
+    <End Role="Quanly" Type="Self.Quanly" Multiplicity="0..1" />
+    <End Role="Nhanvien" Type="Self.Nhanvien" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Quanly">
+        <PropertyRef Name="maquanly" />
+      </Principal>
+      <Dependent Role="Nhanvien">
+        <PropertyRef Name="maquanly" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="NhahangOnlineEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Danhmuc" EntityType="Self.Danhmuc" />
+    <EntitySet Name="Monan" EntityType="Self.Monan" />
+    <EntitySet Name="Nhanvien" EntityType="Self.Nhanvien" />
+    <EntitySet Name="Quanly" EntityType="Self.Quanly" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" />
+    <EntitySet Name="Thucuong" EntityType="Self.Thucuong" />
+    <AssociationSet Name="FK_Monan_Danhmuc" Association="Self.FK_Monan_Danhmuc">
+      <End Role="Danhmuc" EntitySet="Danhmuc" />
+      <End Role="Monan" EntitySet="Monan" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Thucuong_Danhmuc" Association="Self.FK_Thucuong_Danhmuc">
+      <End Role="Danhmuc" EntitySet="Danhmuc" />
+      <End Role="Thucuong" EntitySet="Thucuong" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Nhanvien_Quanly" Association="Self.FK_Nhanvien_Quanly">
+      <End Role="Quanly" EntitySet="Quanly" />
+      <End Role="Nhanvien" EntitySet="Nhanvien" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

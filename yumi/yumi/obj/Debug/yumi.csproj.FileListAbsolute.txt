@@ -1,0 +1,238 @@
+C:\Users\pc\Desktop\NhahangOnline\yumi\yumi\bin\yumi.dll.config
+C:\Users\pc\Desktop\NhahangOnline\yumi\yumi\bin\yumi.dll
+C:\Users\pc\Desktop\NhahangOnline\yumi\yumi\bin\yumi.pdb
+C:\Users\pc\Desktop\NhahangOnline\yumi\yumi\bin\roslyn\csc.exe
+C:\Users\pc\Desktop\NhahangOnline\yumi\yumi\bin\roslyn\csc.exe.config
+C:\Users\pc\Desktop\NhahangOnline\yumi\yumi\bin\roslyn\csc.rsp
+C:\Users\pc\Desktop\NhahangOnline\yumi\yumi\bin\roslyn\csi.exe
+C:\Users\pc\Desktop\NhahangOnline\yumi\yumi\bin\roslyn\csi.exe.config
+C:\Users\pc\Desktop\NhahangOnline\yumi\yumi\bin\roslyn\csi.rsp
+C:\Users\pc\Desktop\NhahangOnline\yumi\yumi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\pc\Desktop\NhahangOnline\yumi\yumi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\pc\Desktop\NhahangOnline\yumi\yumi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\pc\Desktop\NhahangOnline\yumi\yumi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\pc\Desktop\NhahangOnline\yumi\yumi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\pc\Desktop\NhahangOnline\yumi\yumi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\pc\Desktop\NhahangOnline\yumi\yumi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\pc\Desktop\NhahangOnline\yumi\yumi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\pc\Desktop\NhahangOnline\yumi\yumi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\pc\Desktop\NhahangOnline\yumi\yumi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\pc\Desktop\NhahangOnline\yumi\yumi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\pc\Desktop\NhahangOnline\yumi\yumi\bin\roslyn\System.AppContext.dll
+C:\Users\pc\Desktop\NhahangOnline\yumi\yumi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\pc\Desktop\NhahangOnline\yumi\yumi\bin\roslyn\System.Console.dll
+C:\Users\pc\Desktop\NhahangOnline\yumi\yumi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\pc\Desktop\NhahangOnline\yumi\yumi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\pc\Desktop\NhahangOnline\yumi\yumi\bin\roslyn\System.IO.Compression.dll
+C:\Users\pc\Desktop\NhahangOnline\yumi\yumi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\pc\Desktop\NhahangOnline\yumi\yumi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\pc\Desktop\NhahangOnline\yumi\yumi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\pc\Desktop\NhahangOnline\yumi\yumi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\pc\Desktop\NhahangOnline\yumi\yumi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\pc\Desktop\NhahangOnline\yumi\yumi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\pc\Desktop\NhahangOnline\yumi\yumi\bin\roslyn\System.Security.Claims.dll
+C:\Users\pc\Desktop\NhahangOnline\yumi\yumi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\pc\Desktop\NhahangOnline\yumi\yumi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\pc\Desktop\NhahangOnline\yumi\yumi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\pc\Desktop\NhahangOnline\yumi\yumi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\pc\Desktop\NhahangOnline\yumi\yumi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\pc\Desktop\NhahangOnline\yumi\yumi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\pc\Desktop\NhahangOnline\yumi\yumi\bin\roslyn\System.ValueTuple.dll
+C:\Users\pc\Desktop\NhahangOnline\yumi\yumi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\pc\Desktop\NhahangOnline\yumi\yumi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\pc\Desktop\NhahangOnline\yumi\yumi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\pc\Desktop\NhahangOnline\yumi\yumi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\pc\Desktop\NhahangOnline\yumi\yumi\bin\roslyn\vbc.exe
+C:\Users\pc\Desktop\NhahangOnline\yumi\yumi\bin\roslyn\vbc.exe.config
+C:\Users\pc\Desktop\NhahangOnline\yumi\yumi\bin\roslyn\vbc.rsp
+C:\Users\pc\Desktop\NhahangOnline\yumi\yumi\bin\roslyn\VBCSCompiler.exe
+C:\Users\pc\Desktop\NhahangOnline\yumi\yumi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\pc\Desktop\NhahangOnline\yumi\yumi\bin\Antlr3.Runtime.dll
+C:\Users\pc\Desktop\NhahangOnline\yumi\yumi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\pc\Desktop\NhahangOnline\yumi\yumi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\pc\Desktop\NhahangOnline\yumi\yumi\bin\Newtonsoft.Json.dll
+C:\Users\pc\Desktop\NhahangOnline\yumi\yumi\bin\System.Web.Helpers.dll
+C:\Users\pc\Desktop\NhahangOnline\yumi\yumi\bin\System.Web.Mvc.dll
+C:\Users\pc\Desktop\NhahangOnline\yumi\yumi\bin\System.Web.Optimization.dll
+C:\Users\pc\Desktop\NhahangOnline\yumi\yumi\bin\System.Web.Razor.dll
+C:\Users\pc\Desktop\NhahangOnline\yumi\yumi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\pc\Desktop\NhahangOnline\yumi\yumi\bin\System.Web.WebPages.dll
+C:\Users\pc\Desktop\NhahangOnline\yumi\yumi\bin\System.Web.WebPages.Razor.dll
+C:\Users\pc\Desktop\NhahangOnline\yumi\yumi\bin\WebGrease.dll
+C:\Users\pc\Desktop\NhahangOnline\yumi\yumi\bin\System.Web.Helpers.xml
+C:\Users\pc\Desktop\NhahangOnline\yumi\yumi\bin\System.Web.Mvc.xml
+C:\Users\pc\Desktop\NhahangOnline\yumi\yumi\bin\System.Web.Optimization.xml
+C:\Users\pc\Desktop\NhahangOnline\yumi\yumi\bin\System.Web.Razor.xml
+C:\Users\pc\Desktop\NhahangOnline\yumi\yumi\bin\System.Web.WebPages.xml
+C:\Users\pc\Desktop\NhahangOnline\yumi\yumi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\pc\Desktop\NhahangOnline\yumi\yumi\bin\System.Web.WebPages.Razor.xml
+C:\Users\pc\Desktop\NhahangOnline\yumi\yumi\bin\Newtonsoft.Json.xml
+C:\Users\pc\Desktop\NhahangOnline\yumi\yumi\bin\Antlr3.Runtime.pdb
+C:\Users\pc\Desktop\NhahangOnline\yumi\yumi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\pc\Desktop\NhahangOnline\yumi\yumi\obj\Debug\yumi.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\NhahangOnline\yumi\yumi\obj\Debug\yumi.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\NhahangOnline\yumi\yumi\obj\Debug\yumi.csproj.CopyComplete
+C:\Users\pc\Desktop\NhahangOnline\yumi\yumi\obj\Debug\yumi.dll
+C:\Users\pc\Desktop\NhahangOnline\yumi\yumi\obj\Debug\yumi.pdb
+C:\Users\pc\Desktop\NhahangOnline\yumi\yumi\bin\EntityFramework.dll
+C:\Users\pc\Desktop\NhahangOnline\yumi\yumi\bin\EntityFramework.SqlServer.dll
+C:\Users\pc\Desktop\NhahangOnline\yumi\yumi\bin\EntityFramework.xml
+C:\Users\pc\Desktop\NhahangOnline\yumi\yumi\bin\EntityFramework.SqlServer.xml
+C:\Users\KIM BAO\Desktop\NhahangOnline-master\yumi\yumi\bin\yumi.dll.config
+C:\Users\KIM BAO\Desktop\NhahangOnline-master\yumi\yumi\bin\yumi.dll
+C:\Users\KIM BAO\Desktop\NhahangOnline-master\yumi\yumi\bin\yumi.pdb
+C:\Users\KIM BAO\Desktop\NhahangOnline-master\yumi\yumi\bin\roslyn\csc.exe
+C:\Users\KIM BAO\Desktop\NhahangOnline-master\yumi\yumi\bin\roslyn\csc.exe.config
+C:\Users\KIM BAO\Desktop\NhahangOnline-master\yumi\yumi\bin\roslyn\csc.rsp
+C:\Users\KIM BAO\Desktop\NhahangOnline-master\yumi\yumi\bin\roslyn\csi.exe
+C:\Users\KIM BAO\Desktop\NhahangOnline-master\yumi\yumi\bin\roslyn\csi.exe.config
+C:\Users\KIM BAO\Desktop\NhahangOnline-master\yumi\yumi\bin\roslyn\csi.rsp
+C:\Users\KIM BAO\Desktop\NhahangOnline-master\yumi\yumi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\KIM BAO\Desktop\NhahangOnline-master\yumi\yumi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\KIM BAO\Desktop\NhahangOnline-master\yumi\yumi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\KIM BAO\Desktop\NhahangOnline-master\yumi\yumi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\KIM BAO\Desktop\NhahangOnline-master\yumi\yumi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\KIM BAO\Desktop\NhahangOnline-master\yumi\yumi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\KIM BAO\Desktop\NhahangOnline-master\yumi\yumi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\KIM BAO\Desktop\NhahangOnline-master\yumi\yumi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\KIM BAO\Desktop\NhahangOnline-master\yumi\yumi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\KIM BAO\Desktop\NhahangOnline-master\yumi\yumi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\KIM BAO\Desktop\NhahangOnline-master\yumi\yumi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\KIM BAO\Desktop\NhahangOnline-master\yumi\yumi\bin\roslyn\System.AppContext.dll
+C:\Users\KIM BAO\Desktop\NhahangOnline-master\yumi\yumi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\KIM BAO\Desktop\NhahangOnline-master\yumi\yumi\bin\roslyn\System.Console.dll
+C:\Users\KIM BAO\Desktop\NhahangOnline-master\yumi\yumi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\KIM BAO\Desktop\NhahangOnline-master\yumi\yumi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\KIM BAO\Desktop\NhahangOnline-master\yumi\yumi\bin\roslyn\System.IO.Compression.dll
+C:\Users\KIM BAO\Desktop\NhahangOnline-master\yumi\yumi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\KIM BAO\Desktop\NhahangOnline-master\yumi\yumi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\KIM BAO\Desktop\NhahangOnline-master\yumi\yumi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\KIM BAO\Desktop\NhahangOnline-master\yumi\yumi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\KIM BAO\Desktop\NhahangOnline-master\yumi\yumi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\KIM BAO\Desktop\NhahangOnline-master\yumi\yumi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\KIM BAO\Desktop\NhahangOnline-master\yumi\yumi\bin\roslyn\System.Security.Claims.dll
+C:\Users\KIM BAO\Desktop\NhahangOnline-master\yumi\yumi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\KIM BAO\Desktop\NhahangOnline-master\yumi\yumi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\KIM BAO\Desktop\NhahangOnline-master\yumi\yumi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\KIM BAO\Desktop\NhahangOnline-master\yumi\yumi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\KIM BAO\Desktop\NhahangOnline-master\yumi\yumi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\KIM BAO\Desktop\NhahangOnline-master\yumi\yumi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\KIM BAO\Desktop\NhahangOnline-master\yumi\yumi\bin\roslyn\System.ValueTuple.dll
+C:\Users\KIM BAO\Desktop\NhahangOnline-master\yumi\yumi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\KIM BAO\Desktop\NhahangOnline-master\yumi\yumi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\KIM BAO\Desktop\NhahangOnline-master\yumi\yumi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\KIM BAO\Desktop\NhahangOnline-master\yumi\yumi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\KIM BAO\Desktop\NhahangOnline-master\yumi\yumi\bin\roslyn\vbc.exe
+C:\Users\KIM BAO\Desktop\NhahangOnline-master\yumi\yumi\bin\roslyn\vbc.exe.config
+C:\Users\KIM BAO\Desktop\NhahangOnline-master\yumi\yumi\bin\roslyn\vbc.rsp
+C:\Users\KIM BAO\Desktop\NhahangOnline-master\yumi\yumi\bin\roslyn\VBCSCompiler.exe
+C:\Users\KIM BAO\Desktop\NhahangOnline-master\yumi\yumi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\KIM BAO\Desktop\NhahangOnline-master\yumi\yumi\bin\Antlr3.Runtime.dll
+C:\Users\KIM BAO\Desktop\NhahangOnline-master\yumi\yumi\bin\EntityFramework.dll
+C:\Users\KIM BAO\Desktop\NhahangOnline-master\yumi\yumi\bin\EntityFramework.SqlServer.dll
+C:\Users\KIM BAO\Desktop\NhahangOnline-master\yumi\yumi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\KIM BAO\Desktop\NhahangOnline-master\yumi\yumi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\KIM BAO\Desktop\NhahangOnline-master\yumi\yumi\bin\Newtonsoft.Json.dll
+C:\Users\KIM BAO\Desktop\NhahangOnline-master\yumi\yumi\bin\System.Web.Helpers.dll
+C:\Users\KIM BAO\Desktop\NhahangOnline-master\yumi\yumi\bin\System.Web.Mvc.dll
+C:\Users\KIM BAO\Desktop\NhahangOnline-master\yumi\yumi\bin\System.Web.Optimization.dll
+C:\Users\KIM BAO\Desktop\NhahangOnline-master\yumi\yumi\bin\System.Web.Razor.dll
+C:\Users\KIM BAO\Desktop\NhahangOnline-master\yumi\yumi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\KIM BAO\Desktop\NhahangOnline-master\yumi\yumi\bin\System.Web.WebPages.dll
+C:\Users\KIM BAO\Desktop\NhahangOnline-master\yumi\yumi\bin\System.Web.WebPages.Razor.dll
+C:\Users\KIM BAO\Desktop\NhahangOnline-master\yumi\yumi\bin\WebGrease.dll
+C:\Users\KIM BAO\Desktop\NhahangOnline-master\yumi\yumi\bin\EntityFramework.xml
+C:\Users\KIM BAO\Desktop\NhahangOnline-master\yumi\yumi\bin\EntityFramework.SqlServer.xml
+C:\Users\KIM BAO\Desktop\NhahangOnline-master\yumi\yumi\bin\System.Web.Helpers.xml
+C:\Users\KIM BAO\Desktop\NhahangOnline-master\yumi\yumi\bin\System.Web.Mvc.xml
+C:\Users\KIM BAO\Desktop\NhahangOnline-master\yumi\yumi\bin\System.Web.Optimization.xml
+C:\Users\KIM BAO\Desktop\NhahangOnline-master\yumi\yumi\bin\System.Web.Razor.xml
+C:\Users\KIM BAO\Desktop\NhahangOnline-master\yumi\yumi\bin\System.Web.WebPages.xml
+C:\Users\KIM BAO\Desktop\NhahangOnline-master\yumi\yumi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\KIM BAO\Desktop\NhahangOnline-master\yumi\yumi\bin\System.Web.WebPages.Razor.xml
+C:\Users\KIM BAO\Desktop\NhahangOnline-master\yumi\yumi\bin\Newtonsoft.Json.xml
+C:\Users\KIM BAO\Desktop\NhahangOnline-master\yumi\yumi\bin\Antlr3.Runtime.pdb
+C:\Users\KIM BAO\Desktop\NhahangOnline-master\yumi\yumi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\KIM BAO\Desktop\NhahangOnline-master\yumi\yumi\obj\Debug\yumi.csprojAssemblyReference.cache
+C:\Users\KIM BAO\Desktop\NhahangOnline-master\yumi\yumi\obj\Debug\yumi.csproj.CoreCompileInputs.cache
+C:\Users\KIM BAO\Desktop\NhahangOnline-master\yumi\yumi\obj\Debug\yumi.csproj.CopyComplete
+C:\Users\KIM BAO\Desktop\NhahangOnline-master\yumi\yumi\obj\Debug\yumi.dll
+C:\Users\KIM BAO\Desktop\NhahangOnline-master\yumi\yumi\obj\Debug\yumi.pdb
+C:\Users\QuocManh\Desktop\NhahangOnline-master\yumi\yumi\bin\yumi.dll.config
+C:\Users\QuocManh\Desktop\NhahangOnline-master\yumi\yumi\bin\yumi.dll
+C:\Users\QuocManh\Desktop\NhahangOnline-master\yumi\yumi\bin\yumi.pdb
+C:\Users\QuocManh\Desktop\NhahangOnline-master\yumi\yumi\bin\roslyn\csc.exe
+C:\Users\QuocManh\Desktop\NhahangOnline-master\yumi\yumi\bin\roslyn\csc.exe.config
+C:\Users\QuocManh\Desktop\NhahangOnline-master\yumi\yumi\bin\roslyn\csc.rsp
+C:\Users\QuocManh\Desktop\NhahangOnline-master\yumi\yumi\bin\roslyn\csi.exe
+C:\Users\QuocManh\Desktop\NhahangOnline-master\yumi\yumi\bin\roslyn\csi.exe.config
+C:\Users\QuocManh\Desktop\NhahangOnline-master\yumi\yumi\bin\roslyn\csi.rsp
+C:\Users\QuocManh\Desktop\NhahangOnline-master\yumi\yumi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\QuocManh\Desktop\NhahangOnline-master\yumi\yumi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\QuocManh\Desktop\NhahangOnline-master\yumi\yumi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\QuocManh\Desktop\NhahangOnline-master\yumi\yumi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\QuocManh\Desktop\NhahangOnline-master\yumi\yumi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\QuocManh\Desktop\NhahangOnline-master\yumi\yumi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\QuocManh\Desktop\NhahangOnline-master\yumi\yumi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\QuocManh\Desktop\NhahangOnline-master\yumi\yumi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\QuocManh\Desktop\NhahangOnline-master\yumi\yumi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\QuocManh\Desktop\NhahangOnline-master\yumi\yumi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\QuocManh\Desktop\NhahangOnline-master\yumi\yumi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\QuocManh\Desktop\NhahangOnline-master\yumi\yumi\bin\roslyn\System.AppContext.dll
+C:\Users\QuocManh\Desktop\NhahangOnline-master\yumi\yumi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\QuocManh\Desktop\NhahangOnline-master\yumi\yumi\bin\roslyn\System.Console.dll
+C:\Users\QuocManh\Desktop\NhahangOnline-master\yumi\yumi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\QuocManh\Desktop\NhahangOnline-master\yumi\yumi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\QuocManh\Desktop\NhahangOnline-master\yumi\yumi\bin\roslyn\System.IO.Compression.dll
+C:\Users\QuocManh\Desktop\NhahangOnline-master\yumi\yumi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\QuocManh\Desktop\NhahangOnline-master\yumi\yumi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\QuocManh\Desktop\NhahangOnline-master\yumi\yumi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\QuocManh\Desktop\NhahangOnline-master\yumi\yumi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\QuocManh\Desktop\NhahangOnline-master\yumi\yumi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\QuocManh\Desktop\NhahangOnline-master\yumi\yumi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\QuocManh\Desktop\NhahangOnline-master\yumi\yumi\bin\roslyn\System.Security.Claims.dll
+C:\Users\QuocManh\Desktop\NhahangOnline-master\yumi\yumi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\QuocManh\Desktop\NhahangOnline-master\yumi\yumi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\QuocManh\Desktop\NhahangOnline-master\yumi\yumi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\QuocManh\Desktop\NhahangOnline-master\yumi\yumi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\QuocManh\Desktop\NhahangOnline-master\yumi\yumi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\QuocManh\Desktop\NhahangOnline-master\yumi\yumi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\QuocManh\Desktop\NhahangOnline-master\yumi\yumi\bin\roslyn\System.ValueTuple.dll
+C:\Users\QuocManh\Desktop\NhahangOnline-master\yumi\yumi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\QuocManh\Desktop\NhahangOnline-master\yumi\yumi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\QuocManh\Desktop\NhahangOnline-master\yumi\yumi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\QuocManh\Desktop\NhahangOnline-master\yumi\yumi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\QuocManh\Desktop\NhahangOnline-master\yumi\yumi\bin\roslyn\vbc.exe
+C:\Users\QuocManh\Desktop\NhahangOnline-master\yumi\yumi\bin\roslyn\vbc.exe.config
+C:\Users\QuocManh\Desktop\NhahangOnline-master\yumi\yumi\bin\roslyn\vbc.rsp
+C:\Users\QuocManh\Desktop\NhahangOnline-master\yumi\yumi\bin\roslyn\VBCSCompiler.exe
+C:\Users\QuocManh\Desktop\NhahangOnline-master\yumi\yumi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\QuocManh\Desktop\NhahangOnline-master\yumi\yumi\bin\Antlr3.Runtime.dll
+C:\Users\QuocManh\Desktop\NhahangOnline-master\yumi\yumi\bin\EntityFramework.dll
+C:\Users\QuocManh\Desktop\NhahangOnline-master\yumi\yumi\bin\EntityFramework.SqlServer.dll
+C:\Users\QuocManh\Desktop\NhahangOnline-master\yumi\yumi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\QuocManh\Desktop\NhahangOnline-master\yumi\yumi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\QuocManh\Desktop\NhahangOnline-master\yumi\yumi\bin\Newtonsoft.Json.dll
+C:\Users\QuocManh\Desktop\NhahangOnline-master\yumi\yumi\bin\System.Web.Helpers.dll
+C:\Users\QuocManh\Desktop\NhahangOnline-master\yumi\yumi\bin\System.Web.Mvc.dll
+C:\Users\QuocManh\Desktop\NhahangOnline-master\yumi\yumi\bin\System.Web.Optimization.dll
+C:\Users\QuocManh\Desktop\NhahangOnline-master\yumi\yumi\bin\System.Web.Razor.dll
+C:\Users\QuocManh\Desktop\NhahangOnline-master\yumi\yumi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\QuocManh\Desktop\NhahangOnline-master\yumi\yumi\bin\System.Web.WebPages.dll
+C:\Users\QuocManh\Desktop\NhahangOnline-master\yumi\yumi\bin\System.Web.WebPages.Razor.dll
+C:\Users\QuocManh\Desktop\NhahangOnline-master\yumi\yumi\bin\WebGrease.dll
+C:\Users\QuocManh\Desktop\NhahangOnline-master\yumi\yumi\bin\EntityFramework.xml
+C:\Users\QuocManh\Desktop\NhahangOnline-master\yumi\yumi\bin\EntityFramework.SqlServer.xml
+C:\Users\QuocManh\Desktop\NhahangOnline-master\yumi\yumi\bin\System.Web.Helpers.xml
+C:\Users\QuocManh\Desktop\NhahangOnline-master\yumi\yumi\bin\System.Web.Mvc.xml
+C:\Users\QuocManh\Desktop\NhahangOnline-master\yumi\yumi\bin\System.Web.Optimization.xml
+C:\Users\QuocManh\Desktop\NhahangOnline-master\yumi\yumi\bin\System.Web.Razor.xml
+C:\Users\QuocManh\Desktop\NhahangOnline-master\yumi\yumi\bin\System.Web.WebPages.xml
+C:\Users\QuocManh\Desktop\NhahangOnline-master\yumi\yumi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\QuocManh\Desktop\NhahangOnline-master\yumi\yumi\bin\System.Web.WebPages.Razor.xml
+C:\Users\QuocManh\Desktop\NhahangOnline-master\yumi\yumi\bin\Newtonsoft.Json.xml
+C:\Users\QuocManh\Desktop\NhahangOnline-master\yumi\yumi\bin\Antlr3.Runtime.pdb
+C:\Users\QuocManh\Desktop\NhahangOnline-master\yumi\yumi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\QuocManh\Desktop\NhahangOnline-master\yumi\yumi\obj\Debug\yumi.csprojResolveAssemblyReference.cache
+C:\Users\QuocManh\Desktop\NhahangOnline-master\yumi\yumi\obj\Debug\yumi.dll
+C:\Users\QuocManh\Desktop\NhahangOnline-master\yumi\yumi\obj\Debug\yumi.pdb
